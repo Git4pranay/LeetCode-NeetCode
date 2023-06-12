@@ -13,7 +13,6 @@ Output: ["()"]
  
 
 Constraints:
-
 1 <= n <= 8
 
 class Solution:
