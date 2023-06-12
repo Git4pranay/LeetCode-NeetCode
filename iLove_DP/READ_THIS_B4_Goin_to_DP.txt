@@ -1,0 +1,26 @@
+Lets talk about DP (*_*: ) :
+dp is nothing but used to reduce the no. of steps to calculate a solution rather it gets 
+from previous solution , if we see when we do the fabinocci series the 
+
+current sol is obtained by previos solutions
+current slution = sum of prev_two_solutions
+
+rather calculating the entire , we just need to store the things!
+
+We dont need to perform the dp for factorial .
+
+But these two examples are very easy ,we can solve efficiently without using the dp .
+
+--? Real concept of dp bro! ?--
+intrested ! coutinue 
+
+dp is choosing state and transitions
+
+state means the current state , transition means changes the current state (it can be by previous solution or current)
+
+
+
+
+
+
+
