@@ -65,4 +65,3 @@ for i in range(t):
     for _ in range(n):
        l,r=map(int,input().split())
        print(dp[r][0]-dp[l-1][0],dp[r][1]-dp[l-1][1],dp[r][2]-dp[l-1][2])
-    print(dp)
